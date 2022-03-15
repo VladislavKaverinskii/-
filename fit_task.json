@@ -1,0 +1,8 @@
+{
+	"d_fit": 0.05,
+	"total_tolerance": 0.15,
+	"random_multiplicity": 0.99,
+	"fit_point_tolerance": 0.2,
+	"max_iteration": 100
+		
+}

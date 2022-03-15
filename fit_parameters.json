@@ -1,0 +1,22 @@
+{
+
+    "ALPHA_DISL": {
+        "intercept": [0.05, 0.75, 0.15]
+    },
+	
+	"tailor": {
+		"intercept": [1.0, 5.0, 3.1]
+	},
+	
+	"Qd_params": {
+        "intercept": [1.0, 2690000.0, 189000.0]
+    },
+	
+	"Qsd_parameters": {
+        "Qsd_main_parametres": {
+            "Qsd_intercept": [1.0, 50000.0, 2200.54391407596005],
+			"Qsd_exp_coef": [-256874.0, -56874.0, -956874.2380000001]
+        }
+    }
+	
+}

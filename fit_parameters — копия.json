@@ -1,0 +1,15 @@
+{
+    "Qsd_parameters": {
+        "Qsd_main_parametres": {
+            "Qsd_intercept": [1.0, 5000.0, 22.54391407596005]
+        }
+    },
+
+    "Qd_params": {
+        "intercept": [1.0, 2690000.0, 189000.0]
+    },
+	
+	"pic_def_params_A": {
+        "intercept": [0.00917675486280388, 0.0917675486280388, 0.217675486280388]
+	}
+}
